@@ -19,3 +19,9 @@
 [submodule "MMM-AirQuality"]
 	path = MMM-AirQuality
 	url = https://github.com/CFenner/MMM-AirQuality
+[submodule "MMM-Jast"]
+	path = MMM-Jast
+	url = https://github.com/jalibu/MMM-Jast
+[submodule "MMM-QRCode"]
+	path = MMM-QRCode
+	url = https://github.com/evghenix/MMM-QRCode
