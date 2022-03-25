@@ -1,3 +1,21 @@
 [submodule "MMM-Face-Reco-DNN"]
 	path = MMM-Face-Reco-DNN
 	url = https://github.com/nischi/MMM-Face-Reco-DNN.git
+[submodule "MMM-DumpsterDay"]
+	path = MMM-DumpsterDay
+	url = https://github.com/DeanoNoire/MMM-DumpsterDay.git
+[submodule "MMM-Worldclock"]
+	path = MMM-Worldclock
+	url = https://github.com/BKeyport/MMM-Worldclock
+[submodule "MMM-Screencast"]
+	path = MMM-Screencast
+	url = https://github.com/kevinatown/MMM-Screencast
+[submodule "MMM-MagicMover"]
+	path = MMM-MagicMover
+	url = https://github.com/Lavve/MMM-MagicMover
+[submodule "MMM-OpenWeatherForecast"]
+	path = MMM-OpenWeatherForecast
+	url = https://github.com/jclarke0000/MMM-OpenWeatherForecast
+[submodule "MMM-AirQuality"]
+	path = MMM-AirQuality
+	url = https://github.com/CFenner/MMM-AirQuality
