@@ -1,0 +1,3 @@
+[submodule "MMM-Face-Reco-DNN"]
+	path = MMM-Face-Reco-DNN
+	url = https://github.com/nischi/MMM-Face-Reco-DNN.git
